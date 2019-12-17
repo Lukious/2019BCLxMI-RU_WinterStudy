@@ -1,7 +1,7 @@
 # BCLxMI-RU_WinterStudy
 BCLxMI:RU_WinterStudy
 
-# Intro
+## Intro
 #### 2019 12월 18일부터 11주간 진행되는 머신러닝 스터디 레포지토리 입니다.
 #### Machine Learning Study Git repository
 
